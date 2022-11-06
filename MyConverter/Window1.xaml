@@ -1,0 +1,24 @@
+﻿<Window x:Class="MyConverter.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyConverter"
+        mc:Ignorable="d"
+        Title="Официальные курсы валют к рублю Российской Федерации на заданную дату, устанавливаемые ежедневно" Height="450" Width="800" Loaded="Window_Loaded" Icon="/icons8-обмен-евро-фунт-50.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="47*"/>
+            <ColumnDefinition Width="113*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="DataGrid"  FontSize="16" FontWeight="Bold"  Margin="10,40,10,10" AutoGenerateColumns="False" Grid.ColumnSpan="2"  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path= Name}"  CanUserResize="False" IsReadOnly="True" Header="Буквенный код" Width="150*" />
+                <DataGridTextColumn Binding="{Binding Path= Ed}" CanUserResize="False" IsReadOnly="True" Header="Единиц" Width="150*"/>
+                <DataGridTextColumn Binding="{Binding Path= Val}" CanUserResize="False" IsReadOnly="True" Header="Валюта" Width="350*"/>
+                <DataGridTextColumn Binding="{Binding Path= Course}" CanUserResize="False" IsReadOnly="True" Header="Курс" Width="150*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label  Width="85" Height="30" Margin="0,10,10,0" HorizontalAlignment="Right" VerticalAlignment="Top"  BorderBrush="Black" BorderThickness="1 1 1 1" x:Name="Label" FontSize="16" FontWeight="DemiBold" Grid.Column="1"></Label>
+    </Grid>
+</Window>

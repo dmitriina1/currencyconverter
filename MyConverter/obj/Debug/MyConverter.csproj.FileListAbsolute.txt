@@ -1,0 +1,178 @@
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MyConverter.exe.config
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.AssemblyReference.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\App.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter_MarkupCompile.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter_MarkupCompile.lref
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MainWindow.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.g.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.Properties.Resources.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.GenerateResource.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MaterialDesignColors.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\App.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.CopyComplete
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MyConverter.exe.config
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MyConverter.exe
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MyConverter.pdb
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MaterialDesignColors.dll
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MaterialDesignColors.pdb
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.AssemblyReference.cache
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\App.g.cs
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter_MarkupCompile.cache
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter_MarkupCompile.lref
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\App.baml
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MainWindow.baml
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.g.resources
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.Properties.Resources.resources
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.GenerateResource.cache
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.csproj.CopyComplete
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.exe
+C:\Users\student.SSGA\Downloads\MyConverter\MyConverter\obj\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MyConverter.exe.config
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MaterialDesignColors.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.csproj.AssemblyReference.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\App.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter_MarkupCompile.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter_MarkupCompile.lref
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\App.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MainWindow.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.g.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.Properties.Resources.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.csproj.GenerateResource.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.csproj.CopyComplete
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\Window1.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\obj\Debug\Window1.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\EntityFramework.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\System.Data.SQLite.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\EntityFramework.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\LastProj\MyConverter\bin\Debug\System.Data.SQLite.xml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MyConverter.exe.config
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MyConverter.exe
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MyConverter.pdb
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\EntityFramework.dll
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MaterialDesignColors.dll
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\System.Data.SQLite.dll
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\EntityFramework.xml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MaterialDesignColors.pdb
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\bin\Debug\System.Data.SQLite.xml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.csproj.AssemblyReference.cache
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\Window1.g.cs
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\App.g.cs
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter_MarkupCompile.cache
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter_MarkupCompile.lref
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\App.baml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MainWindow.baml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\Window1.baml
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.g.resources
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.Properties.Resources.resources
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.csproj.GenerateResource.cache
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.csproj.CopyComplete
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.exe
+C:\Users\student.SSGA\Desktop\LastProj\MyConverter\obj\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MyConverter.exe.config
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\EntityFramework.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MaterialDesignColors.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\System.Data.SQLite.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\EntityFramework.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\bin\Debug\System.Data.SQLite.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.csproj.AssemblyReference.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\Window1.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\App.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter_MarkupCompile.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter_MarkupCompile.lref
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\App.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MainWindow.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\Window1.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.g.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.Properties.Resources.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.csproj.GenerateResource.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.csproj.CopyComplete
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\1\MyConverter\obj\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MyConverter.exe.config
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MyConverter.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\EntityFramework.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MaterialDesignColors.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\System.Data.SQLite.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\EntityFramework.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\bin\Debug\System.Data.SQLite.xml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.csproj.AssemblyReference.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MainWindow.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\Window1.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\App.g.cs
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter_MarkupCompile.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter_MarkupCompile.lref
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\App.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MainWindow.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\Window1.baml
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.g.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.Properties.Resources.resources
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.csproj.GenerateResource.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.csproj.CoreCompileInputs.cache
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.csproj.CopyComplete
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.exe
+C:\Users\DimasikAnanasik\OneDrive\Рабочий стол\Converter\MyConverter\obj\Debug\MyConverter.pdb
